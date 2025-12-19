@@ -6,8 +6,9 @@ const About = () => {
 
   const paragraphs = [
     profile.description,
-    'Extensive experience building responsive, user-centric interfaces using React.js, Next.js, Vue.js, Nuxt.js, Tailwind CSS, and Tailwind UI, paired with robust backend systems developed in Python and Node.js ecosystems including FastAPI, Django, Flask, and NestJS. Highly skilled in designing RESTful and GraphQL APIs, optimizing database performance, and implementing secure, scalable system architectures.',
-    'Specialized in video streaming solutions, leveraging FFmpeg and custom media pipelines to support live and on-demand video delivery with high reliability and performance. Strong background in working with relational and NoSQL databases such as PostgreSQL, MySQL, MongoDB, and Redis to support data-intensive applications.'
+    'I specialize in building modern, responsive user interfaces and robust backend services using JavaScript, TypeScript, Python, and Node.js ecosystems. On the frontend, I have extensive experience with React.js, Next.js, Vue.js, and Nuxt.js, creating highly interactive, mobile-first applications with Tailwind CSS and Tailwind UI. On the backend, I design and implement secure, scalable APIs and microservices using FastAPI, Django, Flask, and NestJS, supporting both RESTful and GraphQL architectures.',
+    'A core strength of my profile is video streaming and media processing. I have hands-on experience with FFmpeg-based pipelines, real-time and on-demand streaming workflows, and performance-critical systems involving computer vision and AI acceleration. I have worked with NVIDIA technologies including YOLO, DeepStream, Jetson, and Omniverse to build intelligent, GPU-accelerated solutions for video analytics and streaming optimization.',
+    'I am highly proficient in database design and optimization, working with PostgreSQL, MySQL, MongoDB, and Redis to ensure data integrity, low latency, and scalability. I collaborate closely with product managers, designers, and DevOps teams, and I am comfortable owning features end-to-end—from architecture and development to testing, deployment, and maintenance.'
   ];
 
   return (
