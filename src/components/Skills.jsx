@@ -9,8 +9,12 @@ const Skills = () => {
     { title: 'Programming Languages', items: skills.languages, icon: '💻' },
     { title: 'Backend Development', items: skills.backend, icon: '⚙️' },
     { title: 'Frontend Development', items: skills.frontend, icon: '🎨' },
-    { title: 'Video Streaming & Media', items: skills.video, icon: '🎬' },
+    { title: 'Video Streaming & Media Processing', items: skills.video, icon: '🎬' },
+    { title: 'AI, Computer Vision & NVIDIA Stack', items: skills.ai, icon: '🤖' },
     { title: 'Databases & Caching', items: skills.databases, icon: '🗄️' },
+    { title: 'API & System Architecture', items: skills.architecture, icon: '🏗️' },
+    { title: 'Software Development Practices', items: skills.practices, icon: '📋' },
+    { title: 'Soft Skills & Professional Strengths', items: skills.softSkills, icon: '🤝' },
     { title: 'DevOps & Tools', items: skills.devops, icon: '🚀' },
   ];
 
